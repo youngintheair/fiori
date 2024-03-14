@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../exercise8"
+		},
+		{
+			"path": "../exercise10"
+		},
+		{
+			"name": "excercise11",
+			"path": "../excercise11"
+		}
+	],
+	"settings": {}
+}
